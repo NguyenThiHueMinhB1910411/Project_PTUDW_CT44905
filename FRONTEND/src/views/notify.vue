@@ -11,75 +11,7 @@ export default {
 </script>
 <template>
     <HeaderPublic />
-    <!-- <div class="d-flex justify-content-center">
-        <div class="m-1 p-2">
-            <div class="container">
-                <h3 class="text-center">Thông báo</h3>
-                <div>
-                    <p>
-                        <a class="link text-dark" data-toggle="collapse" href="#one" role="" aria-expanded="false"
-                            aria-controls="collapseExample">
-                            Danh sác sinh viên đã được xác nhận tạm hoãn nghĩa vụ quân sự
-                        </a>
-                    </p>
-                    <div class="collapse" id="one">
-                        <div class="y">
-                            <ul>
-                                <li>Nguyễn Văn A</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div>
-                    <p>
-                        <a class="link text-dark" data-toggle="collapse" href="#two" role="" aria-expanded="false"
-                            aria-controls="collapseExample">
-                            Danh sác sinh viên đã được xác nhận tư vấn tâm lý, sức khỏe
-                        </a>
-                    </p>
-                    <div class="collapse" id="two">
-                        <div class="y">
-                            <ul>
-                                <li>Nguyễn Văn A</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div>
-                    <p>
-                        <a class="link text-dark" data-toggle="collapse" href="#three" role="" aria-expanded="false"
-                            aria-controls="collapseExample">
-                            Danh sác sinh viên đã được xác nhận có bảo hiểm y tế ở địa phương
-                        </a>
-                    </p>
-                    <div class="collapse" id="three">
-                        <div class="y">
-                            <ul>
-                                <li>Nguyễn Văn A</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                                <li>Nguyễn Văn B</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div> -->
+   
     <main>
         <div class="d-flex justify-content-center container ">
 

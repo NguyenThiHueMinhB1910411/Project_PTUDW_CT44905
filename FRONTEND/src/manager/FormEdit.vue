@@ -83,30 +83,7 @@ export default {
 
                                 </Form>
                                 <p>{{ message }}</p>
-                                <!-- </div>
-                                </div> -->
-
-                                <!-- <table class="table table-hover text-center table-bordered table table-bordered">
-                                    <thead class="">
-                                        <tr class="text-danger ">
-                                            <th scope="col ">STT</th>
-                                            <th scope="col">MSSV</th>
-                                            <th scope="col">HỌ VÀ TÊN</th>
-                                            <th scope="col">EMAIL</th>
-                                            <TH scope="col">TRẠNG THÁI</TH>
-                                        </tr>
-                                    </thead>
-                                    <tbody class="text-left">
-                                        <tr v-for="(sinhVien, index) in this.listSinhVien">
-                                            <th scope="row ">{{ index + 1 }}</th>
-                                            <td>{{ sinhVien.MSSV }}</td>
-                                            <td>{{ sinhVien.HoTen }}</td>
-                                            <td>{{ sinhVien.Email }}</td>
-                                            <td class="text-primary">{{ sinhVien.TrangThaiSinhVien }}</td>
-                                        </tr>
-
-                                    </tbody>
-                                </table> -->
+                              
 
                             </div>
 

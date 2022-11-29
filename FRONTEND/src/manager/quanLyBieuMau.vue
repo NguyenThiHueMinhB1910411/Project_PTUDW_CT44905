@@ -1,8 +1,6 @@
 
 
 <script>
-// import * as yup from "yup";
-// import { Form, Field, ErrorMessage } from "vee-validate";
 import HeaderAdmin from "../components/HeaderAdmin.vue";
 import BieuMauService from "../services/bieuMau.service";
 import SidebarAdmin from "../components/SidebarAdmin.vue";
